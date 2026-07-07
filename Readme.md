@@ -23,6 +23,7 @@ This project analyzes the Brazilian E-Commerce (Olist) dataset using SQL and Pow
 
 ---
 
+
 ## ❓ Business Questions
 
 - What is the total revenue?
